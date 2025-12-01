@@ -1,20 +1,30 @@
 # Python Fundamentals
 
-This repository contains small Python projects built while learning core Python concepts for AI and software engineering.
+This repository contains hands-on Python projects built while learning
+core programming concepts needed for AI engineering and software development.
 
-# 1. AI Learning Profile 
+Each project focuses on practicing clean input/output, string processing,
+basic numerical computation, and Python fundamentals.
 
-Location: `ai-learning-profile/`
+---
 
-A Python CLI project that builds a personal AI learning profile using:
+## Projects
+
+### AI Learning
+
+Location: `ai-learning-profile`
+
+A CLI project that generates a personal AI learning profile using:
 
 - input handling
 - string processing
-- f-string formatting
 - numeric calculations
+- formatted output with f-strings
 - type conversion
 
-Run it using:
+---
+
+Run:
 
 ```bash
 cd ai-learning-profile
